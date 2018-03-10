@@ -118,7 +118,7 @@ humhub.module('onlydocuments', function (module, require, $) {
 
                 customization: {
                     about: false,
-                    feedback: false,
+                    feedback: true,
                     autosave: true,
                     forcesave: true,
                 },
